@@ -1,0 +1,14 @@
+C:\temp\Csharp\Propriedades\bin\Debug\net8.0\Propriedades.exe
+C:\temp\Csharp\Propriedades\bin\Debug\net8.0\Propriedades.deps.json
+C:\temp\Csharp\Propriedades\bin\Debug\net8.0\Propriedades.runtimeconfig.json
+C:\temp\Csharp\Propriedades\bin\Debug\net8.0\Propriedades.dll
+C:\temp\Csharp\Propriedades\bin\Debug\net8.0\Propriedades.pdb
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\Propriedades.AssemblyInfoInputs.cache
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\Propriedades.AssemblyInfo.cs
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\Propriedades.csproj.CoreCompileInputs.cache
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\Propriedades.dll
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\refint\Propriedades.dll
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\Propriedades.pdb
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\Propriedades.genruntimeconfig.cache
+C:\temp\Csharp\Propriedades\obj\Debug\net8.0\ref\Propriedades.dll
